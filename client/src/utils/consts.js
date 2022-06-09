@@ -1,0 +1,6 @@
+export const ADMIN_ROUTE = '/admin'
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const RENTAL_ROUTE = '/'
+export const FAVORITES_ROUTE = '/favorites'
+export const FLAT_ROUTE = '/flat'
